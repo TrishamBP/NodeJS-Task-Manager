@@ -1,7 +1,7 @@
 # Task-Manager
 Task Manager lets user store data securely to MongoDB using NodeJS and ExpressJS
 <h2> Technology Used </h2>
-<p align="justify">
+<p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Mongo DB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
