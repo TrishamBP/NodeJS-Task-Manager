@@ -1,5 +1,5 @@
 # Task-Manager
-Task Manager lets user store data securely to MongoDB using NodeJS and ExpressJS
+Task Manager APP lets user's store their private data like name, email and password securely to MongoDB. Users can also login with their credentials to access or change user information as needed. NodeJS server is developed using ExpressJS and testing was done using Postman.
 <h2> Technology Used </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
